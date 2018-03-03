@@ -12,7 +12,6 @@ run "python main.py"
 
 Vladimir Mikulik, 2018
 """
-
 import pandas as pd
 import geopy
 import time
